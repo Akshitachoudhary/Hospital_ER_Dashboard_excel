@@ -20,10 +20,10 @@ Displays the average daily satisfaction score provided by patients, offering a d
 
 ## Features
 
-* Dynamic and interactive visuals: to easily explore trends and patterns.
-* Automated calculations: for daily metrics and averages.
-* User-friendly design: with clear charts and highlighted insights.
-* Filter and slicer options: to analyze specific month and year.
+* Dynamic and interactive visuals to easily explore trends and patterns.
+* Automated calculations for daily metrics and averages.
+* User-friendly design with clear charts and highlighted insights.
+* Slicer option to analyze specific month and year.
 
 ##  Tools Used
 
@@ -51,6 +51,7 @@ Displays the average daily satisfaction score provided by patients, offering a d
 ## Dashboard Image
 <img width="1446" height="636" alt="er_dashboard" src="https://github.com/user-attachments/assets/199775b0-c8ba-4047-bc6d-4d2103a615cb" />
 
+## Dataset Used
 
 
 
