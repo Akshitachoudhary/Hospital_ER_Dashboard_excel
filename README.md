@@ -52,6 +52,7 @@ Displays the average daily satisfaction score provided by patients, offering a d
 <img width="1446" height="636" alt="er_dashboard" src="https://github.com/user-attachments/assets/199775b0-c8ba-4047-bc6d-4d2103a615cb" />
 
 ## Dataset Used
+<a href="https://github.com/Akshitachoudhary/Hospital_ER_Dashboard_excel/blob/main/Hospital%20Emergency%20Room%20Data.csv">Dataset</a>
 
 
 
