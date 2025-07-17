@@ -8,13 +8,13 @@ This repository contains an interactive and visually appealing **Excel dashboard
 
 The dashboard tracks the following KPIs:
 
-1️.Number of Patients
+1️.Number of Patients:
 Counts the total number of patients visiting the ER each day. This helps identify peak periods and manage staffing needs effectively.
 
-2️.Average Wait Time
+2️.Average Wait Time:
 Calculates the average time patients wait before seeing a medical professional. Monitoring this KPI helps improve patient flow and reduce overcrowding.
 
-3️.Patient Satisfaction Score
+3️.Patient Satisfaction Score:
 Displays the average daily satisfaction score provided by patients, offering a direct measure of service quality and patient experience.
 
 
